@@ -1,0 +1,9 @@
+name: Grim Reaper
+originalAuthor: Napstio/Ported by Shananas
+assets:
+
+#Obj
+- name: obj/N_CM000_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_CM000_BTL.mdlx
